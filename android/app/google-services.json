@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494094809935",
+    "project_id": "crossknots-37940",
+    "storage_bucket": "crossknots-37940.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494094809935:android:367faeaef36b1ff4cce33a",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494094809935-0tlpk5gmpsm5pcupdle5unedj1uakqsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa5P3cpCS9DJ-4bKHglNQTPcrY8SldIuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494094809935-0tlpk5gmpsm5pcupdle5unedj1uakqsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
